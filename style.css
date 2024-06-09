@@ -1,0 +1,14 @@
+body {
+    background-color: #1b1b38; 
+    color: white;
+  }
+  .navbar, .footer {
+    background-color: #000000;
+  }
+  .footer {
+    padding: 10px 0;
+  }
+  .container {
+    margin-top: 20px;
+  }
+  
